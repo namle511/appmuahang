@@ -1,0 +1,14 @@
+/* YOUR CUSTOM STYLES */
+.img-fluid{
+    height: 300px !important;
+    width: 350px !important;
+}
+.img-fluid-z-depth-0{
+    height: 400px !important;
+    width: 200px !important;
+}
+
+.img-fluid-a {
+    height: 100px !important;
+    widows: 400px !important;
+}
